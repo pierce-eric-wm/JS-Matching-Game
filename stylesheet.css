@@ -1,0 +1,15 @@
+#leftSide{
+width: 500px;
+height:500px;
+position:absolute;
+}
+#rightSide{
+width: 500px;
+border-left:5px #42077f solid;
+height:500px;
+position: absolute;
+left:500px;
+}
+h1{
+    text-decoration: underline;
+}
