@@ -13,3 +13,6 @@ left:500px;
 h1{
     text-decoration: underline;
 }
+img{
+    position: absolute;
+}
